@@ -1,0 +1,12 @@
+"use strict";
+let firstnumber = 10;
+let secondnumber = 20;
+console.log('Before swap');
+console.log('First number = ' + firstnumber);
+console.log('Second number = ' + secondnumber);
+let temp = firstnumber;
+firstnumber = secondnumber;
+secondnumber = temp;
+console.log('After swap');
+console.log('First number = ' + firstnumber);
+console.log('Second number = ' + secondnumber);

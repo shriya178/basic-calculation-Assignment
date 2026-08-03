@@ -1,0 +1,13 @@
+"use strict";
+let basicSalary = 30000;
+let hra = (basicSalary * 20) / 100;
+let da = (basicSalary * 10) / 100;
+let pf = (basicSalary * 8) / 100;
+let grossSalary = basicSalary + hra + da;
+let netSalary = grossSalary - pf;
+console.log('Basic Salary = ₹' + basicSalary);
+console.log('HRA = ₹' + hra);
+console.log('DA = ₹' + da);
+console.log('PF = ₹' + pf);
+console.log('Gross Salary = ₹' + grossSalary);
+console.log('Net Salary = ₹' + netSalary);
