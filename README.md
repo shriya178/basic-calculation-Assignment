@@ -58,7 +58,7 @@ node filename.js
 
 Video Demonstration
 
- **Project Video:** [Watch Video](https://drive.google.com/file/d/17P5fWH5-TLUjWXBBHhVqEDBIz4WpZ91j/view?usp=sharing)
+ **Project Video:** [Watch Video]((https://drive.google.com/file/d/17P5fWH5-TLUjWXBBHhVqEDBIz4WpZ91j/view?usp=drive_link))
 The video demonstrates the TypeScript assignment programs and their execution.
 
 ## Folder Structure
