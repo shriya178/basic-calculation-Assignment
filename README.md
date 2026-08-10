@@ -58,7 +58,7 @@ node filename.js
 
 Video Demonstration
 
-📹 Project Video: 📹 **Project Video:** [Watch Video]([https://drive.google.com/file/d/17P5fWH5-TLUjWXBBHhVqEDBIz4WpZ91j/view?usp=sharing](https://drive.google.com/file/d/17P5fWH5-TLUjWXBBHhVqEDBIz4WpZ91j/view?usp=sharing))
+📹 Project Video: 📹 **Project Video:** [Watch Video]([https://drive.google.com/file/d/17P5fWH5-TLUjWXBBHhVqEDBIz4WpZ91j/view?usp=sharing)]
 
 The video demonstrates the TypeScript assignment programs and their execution.
 
